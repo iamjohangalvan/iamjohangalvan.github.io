@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "module": "commonjs",
+    "skipLibCheck": true,
+    "outDir": "ts-built"
+    // "rootDir": "js"
+  }
+}
